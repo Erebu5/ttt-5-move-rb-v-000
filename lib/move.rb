@@ -18,5 +18,4 @@ end
 # USER MOVE
 def move(board, index, value = "x")
   board[index] = value
-
 end
