@@ -13,7 +13,6 @@ end
 # USER INPUT
 def input_to_index(input)
   (input.to_i) - 1
-  return input
 end
 
 # USER MOVE
