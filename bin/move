@@ -1,3 +1,6 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/move.rb'
+
+puts "Welome to Tic Tac Toe!"
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
