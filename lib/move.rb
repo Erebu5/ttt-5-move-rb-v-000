@@ -1,4 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+input = " "
 
 # DISPLAY BOARD
 def display_board(board)
@@ -11,6 +12,7 @@ end
 
 # USER INPUT
 def input_to_index(input)
+  input.to_i
 
 end
 
